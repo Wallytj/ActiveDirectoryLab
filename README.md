@@ -42,6 +42,29 @@ With your network interface cards (NICs) properly configured, the next step is t
 </br>
 <br><img width="1404" alt="Screenshot 2024-05-14 at 12 57 08 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/ad640918-fd18-4763-b688-b71add4a7a96">
 </br>
+<br>Once the installation process is complete, you might receive a notification for Post-deployment configuration, prompting domain creation. You're free to select any domain name you wish, but for consistency, "mydomain.com" will be used as an example in this guide. You're encouraged to use the same domain name if you wish to follow along.
+</br>
+
+<br><img width="1311" alt="Screenshot 2024-05-14 at 1 07 32 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/f2cb37aa-a7ba-42a6-9a58-8eee30eb70c6">
+</br>
+<br><img width="1128" alt="Screenshot 2024-05-14 at 1 07 53 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/78b2b4dd-c429-4316-92ec-1cb162dd1f02">
+</br>
+<br><img width="1081" alt="Screenshot 2024-05-14 at 1 08 09 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/7b964556-d9aa-45a0-9826-f78f144fba03">
+</br>
+<br><img width="1110" alt="Screenshot 2024-05-14 at 1 08 20 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/1c778e99-3d20-4e75-86b9-6d0348dbc64a">
+</br>
+<br><img width="485" alt="Screenshot 2024-05-14 at 1 08 42 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/6555a173-7d01-487e-9c41-b4f3f6f3f2a8">
+</br>
+<br><img width="1154" alt="Screenshot 2024-05-14 at 1 08 57 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/69aa077d-77ad-4f8d-9029-a0b5748c0034"></br>
+<br><img width="1106" alt="Screenshot 2024-05-14 at 1 09 10 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/03a8270e-51a1-403f-ac00-0e15b43f7d1d">
+</br>
+<br><img width="1118" alt="Screenshot 2024-05-14 at 1 09 24 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/699c1b53-4fd7-40b4-834b-d99d3cc75568">
+</br>
+<br>Next, continue by installing your Remote Access Server or Network Address Translation (NAT). This step aims to allow newly added computers to access the internet while staying connected to the private network via the domain controller. To achieve this, configuring NAT settings is essential.
+
+</br>
+<br></br>
+<br></br>
 <br></br>
 <br></br>
 <br></br>
