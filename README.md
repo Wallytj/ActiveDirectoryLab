@@ -1,25 +1,21 @@
 # ActiveDirectoryLab
 <h1>Active Directory HomeLab</h1>
 <img width="647" alt="Screenshot 2024-05-14 at 12 10 38 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/2746f1c9-b300-4348-a40c-2949bab91bb5">
-This will walk you through the steps of creating an Active Directory Home Lab using Oracle VirtualBox. Furthermore, it will showcase the process of quickly adding more than 1,000 users using PowerShell Scripts for automation.
-To begin, you'll need to download Oracle VirtualBox, Windows Server 2019 ISO, and Windows 11 Disk Image ISO. These three software programs are essential tools for setting up your lab. After downloading, you'll install each program to get started.
-
-![image](https://github.com/Wallytj/ActiveDirectoryLab/assets/75745703/56f3e19f-eeac-4ae7-bc4f-37660c58ae03)
 
 <h2>Description</h2>
-The research team at my organization needs to update the file permissions for certain files and
-directories within the projects directory. The permissions do not currently reflect the level of
-authorization that should be given. Checking and updating these permissions will help keep
-their system secure. To complete this task, I performed the following tasks:
+This will walk you through the steps of creating an Active Directory Home Lab using Oracle VirtualBox. Furthermore, it will showcase the process of quickly adding more than 1,000 users using PowerShell Scripts for automation.
+To begin, you'll need to download Oracle VirtualBox, Windows Server 2019 ISO, and Windows 11 Disk Image ISO. These three software programs are essential tools for setting up your lab. After downloading, you'll install each program to get started.
 <br />
 
-<h2>Check file and directory details</h2>
-The following code demonstrates how I used Linux commands to determine the existing
-permissions set for a specific directory in the file system.
+<h2>SetUp VirtualBox</h2>
+<img width="1428" alt="Screenshot 2024-05-14 at 12 21 48 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/c58b6bee-1f1f-447e-8cfd-82865b6c5b50">
+
+<H2> Install Windows 2019 Server </H2>
 <br/>
-<img width="468" alt="image" src="https://github.com/Wallytj/FilePermissionsInLinux/assets/75745703/ec3e8ca8-fd96-4632-a4df-0207713443c7">
+<img width="707" alt="Screenshot 2024-05-14 at 12 31 22 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/557b3eda-2817-4a5f-b273-d46a0b147c25">
 <br/>
-The first line of the screenshot displays the command I entered, and the other lines display the output. The code lists all contents of the projects directory. I used the ls command with the -la option to display a detailed listing of the file contents that also returned hidden files. The output of my command indicates that there is one directory named drafts, one hidden file named .project_x.txt, and five other project files. The 10-character string in the first column represents the permissions set on each file or directory.
+Next, allocate two network adapters to the Virtual Machine. The first Network Adapter will establish a connection with the external network (i.e., the internet), while the second Network Adapter will be reserved for the private network, facilitating secure connections for client devices.
+
 <br/>
 <br/>
 <h2>Describe the permissions string</h2>
