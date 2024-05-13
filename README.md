@@ -63,10 +63,14 @@ With your network interface cards (NICs) properly configured, the next step is t
 </br>
 <br>Once the installation process is complete, proceed to configure the "Routing and Remote Access" feature. You can locate "Routing and Remote Access" within the tools menu.
 </br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+<br><img width="1131" alt="Screenshot 2024-05-14 at 1 29 47 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/87bbd564-7fee-41fb-913d-005a96a3f2c6">
+</br>
+<br><img width="547" alt="Screenshot 2024-05-14 at 1 30 27 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/4f7c2cfb-c469-4cc9-9c6c-d834930abac5">
+</br>
+<br><img width="500" alt="Screenshot 2024-05-14 at 1 31 15 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/9c8382b8-304d-4b21-9ea6-2d4e0468eb54">
+</br>
+<br><img width="685" alt="Screenshot 2024-05-14 at 1 32 08 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/4c8802e3-e3e1-4e19-bd90-e2888237136a">
+</br>
 <br></br>
 <br></br>
 <br></br>
