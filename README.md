@@ -28,8 +28,19 @@ Next, allocate two network adapters to the Virtual Machine. The first Network Ad
 <h3> Changing Adaptor Name </h3>
 <br><img width="1438" alt="Screenshot 2024-05-14 at 12 41 33 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/67c13f7a-7836-4cb0-9852-2e52687268dc">
 </br>
+No default gateway assignment is necessary as the Domain Controller will act as its own default gateway. Additionally, once Active Directory is installed, it automatically configures the DNS server. 
+
+As per the architectural design, you will assign the following:
 <h3>Assigning IP address to Internal Network</h3>
 <br><img width="1439" alt="Screenshot 2024-05-14 at 12 46 16 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/d8429a35-cbc9-4f64-907f-bd82240dd982">
+</br>
+With your network interface cards (NICs) properly configured, the next step is to install Active Directory Domain Services (AD DS) and establish a domain, which will be named as “mydomain.com”.
+<h3>Instaling Active Directory Domin services</h3>
+<br><img width="1434" alt="Screenshot 2024-05-14 at 12 56 18 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/74a10009-ba3e-4e11-87b6-351f4c31ef18">
+</br>
+<br><img width="791" alt="Screenshot 2024-05-14 at 12 56 51 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/812e78e4-3b63-4e45-a103-5e992be40de9">
+</br>
+<br><img width="1404" alt="Screenshot 2024-05-14 at 12 57 08 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/ad640918-fd18-4763-b688-b71add4a7a96">
 </br>
 <br></br>
 <br></br>
