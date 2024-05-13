@@ -71,10 +71,15 @@ With your network interface cards (NICs) properly configured, the next step is t
 </br>
 <br><img width="685" alt="Screenshot 2024-05-14 at 1 32 08 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/4c8802e3-e3e1-4e19-bd90-e2888237136a">
 </br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+<br>
+Next, you'll need to set up your DHCP (Dynamic Host Configuration Protocol) to ensure that clients connecting to your domain receive automatic IP addresses, allowing them internet access even within the private internal network. To configure DHCP, return to your server manager and select "add roles and features."
+</br>
+<br><img width="1081" alt="Screenshot 2024-05-14 at 1 33 51 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/71367e49-2256-4f28-aeee-068b8772464a">
+</br>
+<br><img width="1064" alt="Screenshot 2024-05-14 at 1 35 15 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/6aa3bfe5-a859-4d28-bfbf-6a8cc6c6d275">
+</br>
+<br><img width="1062" alt="Screenshot 2024-05-14 at 1 35 53 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/bb68fae3-bc65-429c-8e3b-7020250099e5">
+</br>
 <br></br>
 <br></br>
 <br></br>
