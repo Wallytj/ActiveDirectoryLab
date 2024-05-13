@@ -112,13 +112,17 @@ Next, you'll need to set up your DHCP (Dynamic Host Configuration Protocol) to e
 <br>To run the script, you must locate the directory where it is saved.</br>
 <br><img width="1242" alt="Screenshot 2024-05-14 at 1 51 00 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/30e42145-ff25-4eac-b2f2-97f084cd4ab8">
 </br>
-<h3>Run the Script</h3>
+<h3>Runing the Script</h3>
 <br><img width="1440" alt="Screenshot 2024-05-14 at 1 51 49 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/2600ac25-ca8f-44c2-81c2-2223043fbe32">
 </br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+<br><img width="1437" alt="Screenshot 2024-05-14 at 1 53 40 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/65e1a4d6-db1e-4a5f-a7da-d4c55517a4c9">
+</br>
+<br><img width="1261" alt="Screenshot 2024-05-14 at 1 53 49 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/97c73706-b362-4213-80a5-be75cb97a5e9">
+</br>
+<br><img width="1267" alt="Screenshot 2024-05-14 at 1 53 58 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/882f83f5-1774-4933-b9e1-c5987fdd1a4c">
+</br>
+<br><img width="1263" alt="Screenshot 2024-05-14 at 1 54 08 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/6c329373-7287-479d-865d-8563e2b20493">
+</br>
 <br></br>
 <br></br>
 <br></br>
