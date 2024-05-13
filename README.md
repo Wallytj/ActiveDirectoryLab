@@ -1,4 +1,4 @@
-# ActiveDirectoryLab
+![image](https://github.com/Wallytj/ActiveDirectoryLab/assets/75745703/5ac30f76-0d55-4416-aab6-080ef77ce297)# ActiveDirectoryLab
 <h1>Active Directory HomeLab</h1>
 <img width="647" alt="Screenshot 2024-05-14 at 12 10 38 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/2746f1c9-b300-4348-a40c-2949bab91bb5">
 
@@ -80,6 +80,42 @@ Next, you'll need to set up your DHCP (Dynamic Host Configuration Protocol) to e
 </br>
 <br><img width="1062" alt="Screenshot 2024-05-14 at 1 35 53 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/bb68fae3-bc65-429c-8e3b-7020250099e5">
 </br>
+<br><img width="1058" alt="Screenshot 2024-05-14 at 1 37 53 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/6c566dd6-7b24-47d8-aa40-9fcf554267ca">
+</br>
+<br>After successfully installing DHCP, the next step is to configure it according to the architectural design, which serves as a blueprint. Assuming you have basic networking skills, follow these steps: access Tools, locate DHCP, select DC.mydomain.com, navigate to IPV4, and then initiate the creation of a new scope.![image](https://github.com/Wallytj/ActiveDirectoryLab/assets/75745703/469d9f6e-b86a-410b-9cd7-287761d37656)
+</br>
+<br><img width="520" alt="Screenshot 2024-05-14 at 1 40 34 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/b183f54c-cbfb-4cc1-b1c2-fd324b8add5e">
+</br>
+<br><img width="509" alt="Screenshot 2024-05-14 at 1 40 54 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/32ee3a5b-14b9-4cbf-91d8-e09ee82a5469">
+</br>
+<br><img width="509" alt="Screenshot 2024-05-14 at 1 41 02 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/2896ac51-fbb4-4188-8443-b8e58400042a">
+</br>
+<br><img width="513" alt="Screenshot 2024-05-14 at 1 41 08 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/c42780a0-3fd8-4ae7-8184-974008884199">
+</br>
+<br><img width="515" alt="Screenshot 2024-05-14 at 1 41 15 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/619d1312-b631-4155-972b-7a8c524c1e28">
+</br>
+<br>Following that, I'll access the PowerShell script located on my desktop, designed to automate the creation of 1,000 users. This script will generate user accounts and set their passwords to "Password1"</br>
+<br><img width="1111" alt="Screenshot 2024-05-14 at 1 44 37 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/c02a3f68-1d80-4a15-b900-f0a3281ec28c">
+</br>
+<h3>Runing Windows Powershell ISE as administrator</h3>
+<br><img width="1300" alt="Screenshot 2024-05-14 at 1 45 56 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/7e514127-c2d1-48d6-ae48-f928939527e6">
+</br>
+<h3>Open your script</h3>
+
+<br><img width="1438" alt="Screenshot 2024-05-14 at 1 46 56 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/11295445-6f84-40bd-bba2-3d0547e17086">
+</br>
+<br><img width="1439" alt="Screenshot 2024-05-14 at 1 47 59 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/587c4b0f-ff37-4a84-8b03-3fb767e35bfe">
+</br>
+<br>Set execution policy to unrestricted to bypass the security feature since this is just a lab for practice</br>
+<br><img width="1432" alt="Screenshot 2024-05-14 at 1 49 00 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/e3a40ff8-4246-42f1-bea6-df5485fda532">
+</br>
+<br>To run the script, you must locate the directory where it is saved.</br>
+<br><img width="1242" alt="Screenshot 2024-05-14 at 1 51 00 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/30e42145-ff25-4eac-b2f2-97f084cd4ab8">
+</br>
+<h3>Run the Script</h3>
+<br><img width="1440" alt="Screenshot 2024-05-14 at 1 51 49 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/2600ac25-ca8f-44c2-81c2-2223043fbe32">
+</br>
+<br></br>
 <br></br>
 <br></br>
 <br></br>
