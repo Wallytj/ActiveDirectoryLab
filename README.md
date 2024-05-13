@@ -16,8 +16,27 @@ To begin, you'll need to download Oracle VirtualBox, Windows Server 2019 ISO, an
 <br/>
 Next, allocate two network adapters to the Virtual Machine. The first Network Adapter will establish a connection with the external network (i.e., the internet), while the second Network Adapter will be reserved for the private network, facilitating secure connections for client devices.
 
+<h3> Network Adaptor 1 </h3>
 <br/>
+<br><img width="707" alt="Screenshot 2024-05-14 at 12 31 22 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/557b3eda-2817-4a5f-b273-d46a0b147c25">
 <br/>
+<h3>Network Adaptor 2 </h3>
+<br><img width="704" alt="Screenshot 2024-05-14 at 12 35 35 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/f1f76406-5929-4bb2-89b1-690d183e68cd">
+</br>
+<br>Start your server and proceed to set an IP address for the internal network on Network Adapter 2. While Network Adapter 1 automatically acquires its IP address from your home router and does not require manual configuration, the internal network necessitates manual setup to assign the IP address.
+</br>
+<h3> Changing Adaptor Name </h3>
+<br><img width="1438" alt="Screenshot 2024-05-14 at 12 41 33 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/67c13f7a-7836-4cb0-9852-2e52687268dc">
+</br>
+<h3>Assigning IP address to Internal Network</h3>
+<br><img width="1439" alt="Screenshot 2024-05-14 at 12 46 16 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/d8429a35-cbc9-4f64-907f-bd82240dd982">
+</br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 <h2>Describe the permissions string</h2>
 The 10-character string can be deconstructed to determine who is authorized to access the file and their specific permissions. The characters and what they represent are as follows:
 <li>
