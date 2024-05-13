@@ -55,14 +55,21 @@ With your network interface cards (NICs) properly configured, the next step is t
 </br>
 <br><img width="485" alt="Screenshot 2024-05-14 at 1 08 42 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/6555a173-7d01-487e-9c41-b4f3f6f3f2a8">
 </br>
-<br><img width="1154" alt="Screenshot 2024-05-14 at 1 08 57 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/69aa077d-77ad-4f8d-9029-a0b5748c0034"></br>
-<br><img width="1106" alt="Screenshot 2024-05-14 at 1 09 10 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/03a8270e-51a1-403f-ac00-0e15b43f7d1d">
-</br>
-<br><img width="1118" alt="Screenshot 2024-05-14 at 1 09 24 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/699c1b53-4fd7-40b4-834b-d99d3cc75568">
-</br>
 <br>Next, continue by installing your Remote Access Server or Network Address Translation (NAT). This step aims to allow newly added computers to access the internet while staying connected to the private network via the domain controller. To achieve this, configuring NAT settings is essential.
-
 </br>
+<br><img width="1163" alt="Screenshot 2024-05-14 at 1 25 45 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/dc631d87-4854-4ed2-8268-bec2ea453ec8">
+</br>
+<br><img width="1158" alt="Screenshot 2024-05-14 at 1 26 47 AM" src="https://github.com/Wallytj/securityaudit/assets/75745703/db59775a-aa73-43af-a238-6934e5897c3f">
+</br>
+<br>Once the installation process is complete, proceed to configure the "Routing and Remote Access" feature. You can locate "Routing and Remote Access" within the tools menu.
+</br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 <br></br>
 <br></br>
 <br></br>
